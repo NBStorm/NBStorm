@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Tung+Bao!+👋;+I'm+Fullstack+Developer!;" />
+</h1>
 
-<!--
-**NBStorm/NBStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate software developer from Vietnam</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+🔭 Welcome my site 👉 [https://github.com/NBStorm](https://github.com/NBStorm)
+
+🌱 I’m currently learning **Docker, Nginx,...**
+
+💬 Ask me about **ReactJS, NestJS... or anything**
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,php,vscode,linux,github,git,docker,vite,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,django,laravel,spring,net,graphql,mui,tailwind,firebase,mongodb,mysql" /><br>
+</div>
