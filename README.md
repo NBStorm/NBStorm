@@ -18,5 +18,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,php,vscode,linux,github,git,docker,vite" />
-    <img src="https://skillicons.dev/icons?i=react,vue,nodejs,django,spring,net,mui,tailwind,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vue,nodejs,django,spring,net,tailwind,mongodb,mysql" /><br>
 </div>
