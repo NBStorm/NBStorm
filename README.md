@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **Docker, Nginx,...**
 
-💬 Ask me about **ReactJS, NestJS... or anything**
+💬 Ask me about **ReactJS,... or anything**
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
